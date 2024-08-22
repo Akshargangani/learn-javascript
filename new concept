@@ -1,0 +1,24 @@
+// var my_name="garvit";
+// var age=18;
+// console.log("my name is"+" "+my_name+" and my sge is "+age);
+// console.log("my name is",my_name,"and my age is",age)
+// console.log(`my name is ${my_name} and my age is ${age}`)
+
+// var array=[1,2,3,4,5]
+// var [one,two,three]=array
+// console.log(one)
+
+// var user_object=[
+//     { my_name:"garvit",age:18,roll_no:1},
+//     { my_name:"veer",age:18,roll_no:2},
+//     { my_name:"shubham",age:18,roll_no:3},
+// ]
+// var number_object=[
+//    {student_num:2585398525},
+//    { student_num:234252529},
+//    { student_num:134293353}
+// ]
+// // var user_object=number_object
+// // console.log(my_name)
+// let {my_name , age,student_num}={ my_name:"garvit",age:18,roll_no:1,student_num:2585398525}
+// console.log(student_num )
